@@ -20,7 +20,7 @@ a:hover {
   color:          #000000;
 }
 
-label {
+area, label {
   cursor:           pointer;
 }
 
